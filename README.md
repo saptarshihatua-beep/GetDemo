@@ -1,4 +1,4 @@
 # GetDemo
 I am a CSE Student and a coder
-/nsaptarshi hatua
+saptarshi hatua
 good boy
